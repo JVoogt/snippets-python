@@ -1,3 +1,6 @@
+'''
+    insert pandas dataframe into SQL Server
+'''
 import sqlalchemy as sa
 import pyodbc
 import numpy as np

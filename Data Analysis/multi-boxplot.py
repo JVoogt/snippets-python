@@ -1,7 +1,5 @@
 '''
-    conda install pandas-profiling
-    pip install pandas-profiling
-    https://github.com/pandas-profiling/pandas-profiling
+
 '''
 import numpy as np
 import pandas as pd

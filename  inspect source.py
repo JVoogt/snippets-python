@@ -1,3 +1,6 @@
+'''
+    inspect source from any lib
+'''
 import pandas as pd
 import inspect
 
