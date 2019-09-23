@@ -1,0 +1,42 @@
+{
+    "HEAD001": {
+    "required": false,
+    "type": "integer",
+    "start_pos": 1,
+    "end_pos": 10,
+    "alignment": "left",
+    "padding": " "
+    },
+    "HEAD002": {
+        "required": false,
+        "type": "string",
+        "start_pos": 11,
+        "end_pos": 15,
+        "alignment": "left",
+        "padding": " "
+    },
+    "HEAD003": {
+        "required": false,
+        "type": "integer",
+        "start_pos": 16,
+        "end_pos": 19,
+        "alignment": "left",
+        "padding": " "
+    },
+    "HEAD004": {
+        "required": false,
+        "type": "string",
+        "start_pos": 20,
+        "end_pos": 50,
+        "alignment": "left",
+        "padding": " "
+    },
+    "HEAD005": {
+        "required": false,
+        "type": "string",
+        "start_pos": 51,
+        "end_pos": 80,
+        "alignment": "left",
+        "padding": " "
+    }
+}
