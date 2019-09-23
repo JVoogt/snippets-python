@@ -29,7 +29,6 @@ def readFixedWidth(fqdn):
             sel.append(dict((k, values[k]) for k in (headers)))
     return sel
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     fqdn = input('Please enter file name: ')
     file_obj = readFixedWidth(fqdn)
-    
