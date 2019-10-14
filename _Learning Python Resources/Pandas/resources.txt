@@ -1,0 +1,2 @@
+http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+http://tomaugspurger.github.io/modern-1-intro.html
